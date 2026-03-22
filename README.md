@@ -1,1 +1,3 @@
-# imfailing.github.io
+# CV landing
+
+Repository contains CV landing files created by Hugo
